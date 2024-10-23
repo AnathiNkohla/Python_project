@@ -1,0 +1,31 @@
+REPORT:
+
+Data set title:
+South African Election Satisfaction Survey (ESS) 2000: Voters - All provinces
+
+Data set description: 
+-This data set contains responses of South African legible voters in the 2000 local government elections aged 18 
+years and older.
+-All 200 selected voting stations were visited on election day. The number of voters interviewed was 11 315 and 
+the data set contains 30 variables.
+-The questionnaire questions included the distance traveled to the voting station, means of transport utilised, time 
+spent in the voting queue, perception of IEC officials' competence, and perception of the freeness and fairness 
+of the election.
+
+
+Province                Voting Stations            Sampled Expected sample
+Eestern Cape            27                            1339
+Free State              20                            954
+Gauteng                 30                            1793
+KwaZulu-Natal           32                            1843
+Mpumalanga              18                            865
+Northern Cape           18                            1089
+Northern Province       22                            1077
+North West              18                            993
+Western Cape            25                            1362
+Total:                  210                           11 315
+
+TREND BASED ON THE DATA:
+-Is that in KZN had the most expected vote sample
+-Is that Mpumalanga had the least expected vote sample
+-Is that North west and Mpumalanga had the same number of voting station sample
